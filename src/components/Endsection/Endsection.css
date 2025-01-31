@@ -1,0 +1,21 @@
+.Endsection {
+    background-color: rgb(15, 14, 14);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    width: 100%;
+    position: relative;
+    bottom: 0;
+    left: 0;
+}
+
+.Endsection p {
+    margin: 0;
+}
+
+.links {
+    display: flex;
+    gap: 10px; 
+}
