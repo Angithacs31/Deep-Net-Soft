@@ -1,7 +1,7 @@
 import React from 'react'
 import './Home.css'
 import Header from '../../components/Header/Header'
-import Explore from '../../components/explore/explore'
+import Explore from '../../components/Explore/Explore'
 import Middsection from '../../components/Middsection/Middsection'
 import Footer from '../../components/Footer/Footer'
 import Endsection from '../../components/Endsection/Endsection'
