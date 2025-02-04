@@ -4,7 +4,7 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: url('Background_img.png');
+    background: url('/Background_img.png');
     background-size: cover;
     padding: 20px;
    
@@ -20,7 +20,7 @@
     border: 2px solid rgba(255, 255, 255, 0.3);
     text-align: left;
     position: relative; 
-    background: url('Rectangle 116_img.png') no-repeat center center;
+    background: url('/Rectangle 116_img.png') no-repeat center center;
 }
 .menu-title {
     font-size: 1.8rem;
@@ -41,7 +41,7 @@
     left: -30px;
     width: 80px;
     height: 100px;
-    background: url('image 39  1_img.png') no-repeat center center;
+    background: url('/image 39  1_img.png') no-repeat center center;
     background-size: contain;
     opacity: 0.8;
 }
@@ -54,7 +54,7 @@
     right: -30px;
     width: 80px; 
     height: 80px;
-    background: url('cocktail1 1_img.png') no-repeat center center;
+    background: url('/cocktail1 1_img.png') no-repeat center center;
     background-size: contain;
     opacity: 0.8;
 }
